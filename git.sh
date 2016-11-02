@@ -2,4 +2,4 @@
 git pull
 git add .
 git commit -m "#!/bin/bash git.sh"
-git push
+git push orign master
