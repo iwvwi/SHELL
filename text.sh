@@ -1,5 +1,5 @@
 #!/bin/bash
-for a in `seq 20 100`
+for a in `seq 101 1000`
 do
     git pull
     touch  "$a.sh"
